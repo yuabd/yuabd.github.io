@@ -8,7 +8,7 @@ module.exports = {
   /**
    * API
    */
-  repo: 'yuabd/yuabd.github.io', // Which repository you stored the posts
+  repo: 'yuabd/writings', // Which repository you stored the posts
   path: 'posts',
   branch: 'master'
 }
